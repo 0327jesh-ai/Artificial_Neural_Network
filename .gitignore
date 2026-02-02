@@ -1,0 +1,19 @@
+# Virtual environment
+venv/
+
+# Datasets (DO NOT TRACK)
+data/
+Fedex_ANN/*.csv
+
+# Models (optional – comment out if you want to upload)
+*.h5
+*.pkl
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
+
